@@ -1,4 +1,6 @@
 welcome to the Pro-Alarms Security Project!
+it is hosted on https://pro-alarms.netlify.app
+
 This repository provides the foundational content that powers the public face of Pro-Alarms Security. It encapsulates our vision, our detailed service offerings, and the core message we deliver to every client: security isn't just a service; it's a proactive guarantee for your peace of mind.
 
 Our goal is to build intelligent, adaptive defenses that don't just react to threats, but understand and anticipate them. This content is crafted to clearly articulate our unique approach and the comprehensive solutions we bring to both residential havens and enterprise nerve centers.
